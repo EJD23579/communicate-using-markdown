@@ -22,6 +22,6 @@ return a + b
 ```
 # Here is my list example:
 
-- [] Turn on Github Pages
+- [x] Turn on Github Pages
 - [] Outline my portfolio
 - [] Introduce myself to the world
