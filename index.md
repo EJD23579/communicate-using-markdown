@@ -6,3 +6,17 @@ this is my normal text.
 
 ## Here is Yaktocat!
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+# Here is my code example.
+
+```
+
+function test (a,b) {
+a = 1
+b = 2
+return a + b
+
+};
+
+```
